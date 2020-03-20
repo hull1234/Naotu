@@ -4,7 +4,7 @@
 
 20200319，本日更新了Sentinel部分。
 
-20200320，今天稍晚更新nacos部分。
+20200320，今天更新了config和bus部分，下周更新nacos部分。
 
 这是天天的项目https://github.com/boytian/tiantian-springcloud2020
 
